@@ -1,11 +1,6 @@
 # Text-Classification-
-Deep Learning Techniques for Text Classification
-Master Thesis Project in Computer Control and Automation Program at Nanyang Technological University, Singapore.
+Techniques for Text Classification
 
-Publication: NTU Digital Repository, Towards Data Science
-Author: Diardano Raihan
-Email: diardano@gmail.com
-Social Media: LinkedIn, Medium
 Project Summary
 The experiment will evaluate the performance of some popular deep learning models, such as feedforward, recurrent, convolutional, and ensemble-based neural networks, on five different datasets. We will build each model on top of two separate feature extractions to capture information within the text.
 
